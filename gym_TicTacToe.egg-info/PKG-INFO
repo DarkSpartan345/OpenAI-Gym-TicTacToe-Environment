@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: gym-TicTacToe
+Version: 0.1
+Summary: Custom TicTacToe Environment for Reinforcement Learning
+Author: Ronny Alberto Rueda Méndez (basado en Mauro Luzzatto)
