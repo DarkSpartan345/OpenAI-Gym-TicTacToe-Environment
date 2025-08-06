@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 run the following command in the command line
 ``` 
-pip install -e gym-TicTacToe/. 
+pip install -e gym_TicTacToe 
 ```
 
 now you should see the following message
